@@ -9,8 +9,9 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2601.02358-b31b1b.svg)](http://arxiv.org/abs/2601.02358)&nbsp;
-<!-- [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-huggingface-yellow)](https://huggingface.co/SOTAMak1r/tiny-sora2)&nbsp; -->
+[![YouTube](https://img.shields.io/badge/YouTube-Video-c4302b.svg)](https://www.youtube.com/watch?v=4jXkEk3r2pw)&nbsp;
 
+<!-- [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-huggingface-yellow)](https://huggingface.co/SOTAMak1r/tiny-sora2)&nbsp; -->
 </div>
 
 <p align="center">
