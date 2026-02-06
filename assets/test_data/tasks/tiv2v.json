@@ -1,0 +1,20 @@
+[
+    {
+        "index": "id_2",
+        "task": "tiv2v",
+        "caption": "Add the hat on the man's head in the video.",
+        "ref_image_paths": [
+            "./assets/test_data/images/tiv2v_1.jpg"
+        ],
+        "ref_video_path": "./assets/test_data/videos/tiv2v_1.mp4"
+    },
+    {
+        "index": "id_1",
+        "task": "tiv2v",
+        "caption": "Change the woman in the video to the man in the image.",
+        "ref_image_paths": [
+            "./assets/test_data/images/tiv2v_2.jpg"
+        ],
+        "ref_video_path": "./assets/test_data/videos/tiv2v_2.mp4"
+    }
+]

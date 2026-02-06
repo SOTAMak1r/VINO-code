@@ -1,0 +1,18 @@
+[
+    {
+        "index": "id_1",
+        "task": "i2v",
+        "caption": "Use Image 1 as the first frame. Move forward smoothly.",
+        "ref_image_paths": [
+            "./assets/test_data/images/i2v_1.jpg"
+        ]
+    },
+    {
+        "index": "id_2",
+        "task": "i2v",
+        "caption": "Generate a video with Image 1 as the first frame. A stylish woman walks through the streets of Tokyo, surrounded by warm, flickering neon lights and dynamic urban billboards. She wears a black leather jacket, a long red dress, and black ankle boots, carrying a black handbag. She has sunglasses on and bold red lipstick. Her stride is confident and unhurried. The wet street reflects the lights, creating a mirror-like effect with vibrant colors. Pedestrians bustle around her.",
+        "ref_image_paths": [
+            "./assets/test_data/images/i2v_2.png"
+        ]
+    }
+]

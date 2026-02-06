@@ -1,0 +1,22 @@
+[
+    {
+        "index": "id_1",
+        "task": "ti2i",
+        "ref_image_have_base": true,
+        "caption": "Put the sunglasses in the reference image to the man",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2i_baseimg_1.png",
+            "./assets/test_data/images/ti2i_baseimg_2.jpg"
+        ]
+    },
+    {
+        "index": "id_2",
+        "task": "ti2i",
+        "ref_image_have_base": true,
+        "caption": "Change the style to the reference image style",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2i_baseimg_3.jpg",
+            "./assets/test_data/images/ti2i_baseimg_4.jpg"
+        ]
+    }
+]

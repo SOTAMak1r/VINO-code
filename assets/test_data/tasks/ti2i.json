@@ -1,0 +1,18 @@
+[
+    {
+        "index": "id_1",
+        "task": "ti2i",
+        "caption": "Add a sunglasses to the man in the image",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2i_1.jpg"
+        ]
+    },
+    {
+        "index": "id_2",
+        "task": "ti2i",
+        "caption": "Change the style of the image to black and white comics",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2i_1.jpg"
+        ]
+    }
+]

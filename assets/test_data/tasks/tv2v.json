@@ -1,0 +1,14 @@
+[
+    {
+        "index": "id_1",
+        "task": "tv2v",
+        "caption": "Add minimalist transparent-frame glasses to the person.",
+        "ref_video_path": "./assets/test_data/videos/tiv2v_2.mp4"
+    },
+    {
+        "index": "id_2",
+        "task": "tv2v",
+        "caption": "Convert the video into an oil painting style with thick brush strokes and visible paint texture.",
+        "ref_video_path": "./assets/test_data/videos/tiv2v_2.mp4"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "index": "id_1",
+        "task": "t2v",
+        "caption": "Create a video of a city street at 48.8566° N, 2.3522° E, evening, July 14, 1789."
+    },
+    {
+        "index": "id_2",
+        "task": "t2v",
+        "caption": "Create a video of a trading settlement at 9.0820° N, 8.6753° E, around 1000 CE."
+    }
+]

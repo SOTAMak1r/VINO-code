@@ -1,0 +1,11 @@
+[
+    {
+        "index": "id_1",
+        "task": "tiv2v",
+        "caption": "Apply the human motions from the reference video to the image.",
+        "ref_image_paths": [
+            "./assets/test_data/images/tiv2v_clone_1.jpg"
+        ],
+        "ref_video_path": "./assets/test_data/videos/tiv2v_clone_1.mp4"
+    }
+]

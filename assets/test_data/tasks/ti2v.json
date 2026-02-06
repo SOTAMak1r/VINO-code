@@ -1,0 +1,22 @@
+[
+    {
+        "index": "id_1",
+        "task": "ti2v",
+        "caption": "Make the person in Image_1 wear the hat in Image_3 while wearing the clothing in Image_2 and talk to the camera.",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2v_1.jpg",
+            "./assets/test_data/images/ti2v_2.jpg",
+            "./assets/test_data/images/ti2v_3.jpg"
+        ]
+    },
+    {
+        "index": "id_2",
+        "task": "ti2v",
+        "caption": "Make the person in Image_1 hold the object in Image_3 while wearing the clothing in Image_2 and briefly show it to the camera.",
+        "ref_image_paths": [
+            "./assets/test_data/images/ti2v_4.jpg",
+            "./assets/test_data/images/ti2v_5.png",
+            "./assets/test_data/images/ti2v_6.jpg"
+        ]
+    }
+]

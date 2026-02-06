@@ -1,0 +1,11 @@
+[
+    {
+        "index": "id_1",
+        "task": "tiv2v",
+        "caption": "Refer the video's camera movements, apply those effects to this image.",
+        "ref_image_paths": [
+            "./assets/test_data/images/tiv2v_camclone_1.png"
+        ],
+        "ref_video_path": "./assets/test_data/videos/scene1027_10.mp4"
+    }
+]

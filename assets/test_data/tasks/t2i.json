@@ -1,0 +1,12 @@
+[
+    {
+        "index": "id_1",
+        "task": "t2i",
+        "caption": "An image displays exquisite, ornate boots featuring metallic designs, gears, and fantasy motifs set beside rough terrain and an expansive sky."
+    },
+    {
+        "index": "id_2",
+        "task": "t2i",
+        "caption": "A cinematic photo of a baseball sitting atop a grass field at night under a spotlight, with a dirty atmosphere and bokeh effect."
+    }
+]
