@@ -27,7 +27,7 @@ Welcome to the official repository for **VINO**.
 
 * 👍 **All-in-One Unified Model**: A single model weight supports all tasks including Text-to-Image, Text-to-Video, Image-to-Video, and extensive Image/Video Editing.
 * 👍 **OmniModal Context**: Deeply integrated with VLM to handle multi-image references, long-context instructions, and mixed-modal inputs for precise Instruction Following.
-* 👍 **Advanced Control**: Supports sophisticated editing capabilities such as **Element Clone**, **Camera Control**, and **Style Transfer**.
+* 👍 **Advanced Control**: Supports sophisticated generation and editing capabilities.
 
 ## 🎬 Video Demo
 
