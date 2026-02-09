@@ -11,7 +11,7 @@
 💜 <a href="https://sotamak1r.github.io/VINO-web/"><b>Project Page</b></a> &nbsp&nbsp ｜ 
 &nbsp&nbsp 📑 <a href="http://arxiv.org/abs/2601.02358"><b>Paper</b></a> &nbsp&nbsp  | 
 &nbsp&nbsp🤗 <a href="https://huggingface.co/SOTAMak1r/VINO-weight"><b>Hugging Face</b></a>&nbsp&nbsp | 
-&nbsp&nbsp 📺 <a href="[https://www.youtube.com/watch?v=4jXkEk3r2pw](https://www.youtube.com/watch?v=4jXkEk3r2pw)"><b>YouTube</b></a>&nbsp&nbsp
+&nbsp&nbsp 📺 <a href="https://www.youtube.com/watch?v=4jXkEk3r2pw"><b>YouTube</b></a>&nbsp&nbsp
 <br>
 
 ---
