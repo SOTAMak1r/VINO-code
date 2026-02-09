@@ -8,11 +8,11 @@
 </p> -->
 
 <p align="center">
-💜 <a href="[https://sotamak1r.github.io/VINO-web/](https://sotamak1r.github.io/VINO-web/)"><b>Project Page</b></a> &nbsp&nbsp ｜ 
-&nbsp&nbsp 📑 <a href="[http://arxiv.org/abs/2601.02358](http://arxiv.org/abs/2601.02358)"><b>Paper</b></a> &nbsp&nbsp  | 
-&nbsp&nbsp🤗 <a href="[https://huggingface.co/SOTAMak1r/tiny-sora2](https://www.google.com/search?q=https://huggingface.co/SOTAMak1r/tiny-sora2)"><b>Hugging Face</b></a>&nbsp&nbsp | 
+💜 <a href="https://sotamak1r.github.io/VINO-web/"><b>Project Page</b></a> &nbsp&nbsp ｜ 
+&nbsp&nbsp 📑 <a href="http://arxiv.org/abs/2601.02358"><b>Paper</b></a> &nbsp&nbsp  | 
+&nbsp&nbsp🤗 <a href="https://huggingface.co/SOTAMak1r/VINO-weight"><b>Hugging Face</b></a>&nbsp&nbsp | 
 &nbsp&nbsp 📺 <a href="[https://www.youtube.com/watch?v=4jXkEk3r2pw](https://www.youtube.com/watch?v=4jXkEk3r2pw)"><b>YouTube</b></a>&nbsp&nbsp
-
+<br>
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to the official repository for **VINO**.
 
 ## 🔥 News
 
-* **[2026.02.05]** 🚀 We have officially released the **VINO** inference code and full model weights!
+* **[2026.02.09]** 🚀 We have officially released the **VINO** inference code and full model weights!
 * **[2026.01.06]** 📑 The **VINO** paper is now available on [arXiv](http://arxiv.org/abs/2601.02358).
 * **[2025.12.09]** 🌐 The project page is live.
 
@@ -198,8 +198,8 @@ torchrun --nproc_per_node=8 inference.py \
 
 VINO allows for unique "Cloning" effects, such as keeping the scene static while only moving the camera (Bullet Time effect).
 
-> 💡 **Tip**: To achieve the **Bullet Time** effect (freezing the scene while moving the camera), we recommend using a specific negative prompt in your JSON config to suppress object dynamics:
-> `negative_prompt`: "moving objects, dynamic elements, animation, character movement, walking, running, talking, ... static camera, still image" (See code for full list)
+> 💡 **Tip**: To achieve the **Bullet Time** effect (freezing the scene while moving the camera), we recommend using a specific negative prompt to suppress object dynamics:
+> `negative_prompt`: "moving objects, dynamic elements, animation, character movement, walking, running, talking, ... static camera, still image"
 
 ```bash
 torchrun --nproc_per_node=8 inference.py \
