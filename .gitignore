@@ -1,7 +1,6 @@
 __pycache__
 *.egg-info
 
-videos*
 output*
 models
 checkpoints*
