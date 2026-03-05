@@ -232,7 +232,7 @@ python understand.py \
 
 ## ⚙️ Configuration Details
 
-Our `inference.py` provides extensive parameter configurations. You can check the defaults in `VINOInferenceConfig`:
+Our `inference.py` provides extensive parameter configurations. You can check the default in `VINOInferenceConfig`:
 
 * **`--guidance_scale`**: Text guidance scale (CFG). 
 * **`--guidance_scale_image`**: Image guidance scale for Image-Conditioned tasks. Recommended range: `1.0` - `3.0`.
